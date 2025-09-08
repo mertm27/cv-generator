@@ -1,4 +1,3 @@
-import React from 'react';
 import { CVProvider } from './context/CVContext';
 import CVForm from './components/CVForm';
 import CVPreview from './components/CVPreview';

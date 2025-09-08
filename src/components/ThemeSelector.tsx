@@ -1,5 +1,5 @@
 import React from 'react';
-import { useCV, Theme } from '../context/CVContext';
+import { useCV } from '../context/CVContext';
 import ModernTheme from './themes/ModernTheme';
 import ClassicTheme from './themes/ClassicTheme';
 import MinimalTheme from './themes/MinimalTheme';
